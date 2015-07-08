@@ -1,0 +1,5 @@
+c:\users\kshah\documents\visual studio 2012\Projects\DemoSite\DemoSite\bin\DemoSite.dll
+c:\users\kshah\documents\visual studio 2012\Projects\DemoSite\DemoSite\bin\DemoSite.pdb
+c:\users\kshah\documents\visual studio 2012\Projects\DemoSite\DemoSite\obj\Debug\DemoSite.csprojResolveAssemblyReference.cache
+c:\users\kshah\documents\visual studio 2012\Projects\DemoSite\DemoSite\obj\Debug\DemoSite.dll
+c:\users\kshah\documents\visual studio 2012\Projects\DemoSite\DemoSite\obj\Debug\DemoSite.pdb
